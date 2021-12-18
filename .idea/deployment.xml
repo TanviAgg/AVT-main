@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="taggarwal@submit.ai.stonybrook.edu:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="taggarwal@130.245.163.22:130">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_279" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="taggarwal@130.245.163.22:130 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_617" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="taggarwal@context.cs.stonybrook.edu:130">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/taggarwal/AVT-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="taggarwal@submit.ai.stonybrook.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/taggarwal/AVT-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
