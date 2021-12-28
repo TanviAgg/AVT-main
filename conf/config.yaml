@@ -58,7 +58,7 @@ train:
       cls_noun: 1.0
       pred: 1.0
       feat: 1.0
-      distill: 10.0
+      distill: 50.0
       # Past predictions, default 0 to be backward compatible
       past_cls_action: 0.0
       past_cls_verb: 0.0

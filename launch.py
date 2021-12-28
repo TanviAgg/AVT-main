@@ -165,7 +165,7 @@ def choose_single_run(clis, fpath, run_id):
         ]
         # final_run_id, param_dict = run_id_param_dicts[inquirer.prompt(qst)
         #                                               ['r']]
-        final_run_id, param_dict = run_id_param_dicts[0]  #custominfo
+        final_run_id, param_dict = run_id_param_dicts[1]  #custominfo
     print("final_run_id ", final_run_id, ", run_id ", run_id)
     return final_run_id, [f'{key}={val}' for key, val in param_dict.items()]
 

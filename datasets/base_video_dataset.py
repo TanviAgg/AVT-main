@@ -450,7 +450,7 @@ class BaseVideoDataset(torch.utils.data.Dataset):
         # used to get intermediate labels for L_cls etc still (even during
         # visualizations sometimes I want to show that)
         self.df_before_subset = self.df
-        self.lm_pred_outputs = read_lm_outputs('/home/taggarwal/AVT-main/DATA/custom/lm_pred_bert0.pickle')  # for custom distillation loss
+        self.lm_pred_outputs = read_lm_outputs('/home/taggarwal/AVT-main/DATA/custom/lm_pred_roberta1.pickle')  # for custom distillation loss
         if uid_subset is not None:
             # Select a subset in the order of the list
             self.df = self.df.iloc[pd.Index(
